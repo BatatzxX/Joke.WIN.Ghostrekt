@@ -1,2 +1,2 @@
-# Rogue.WIN.Ghostrekt
-A rogue made out of boredom ;)
+# Joke.WIN.Ghostrekt
+A joke made out of boredom ;)
